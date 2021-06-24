@@ -1,0 +1,24 @@
+{
+  "name": "RocketQ",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anônimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW Rocketseat na missão Discover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusboliveira/Discover.git"
+  },
+  "keywords": [],
+  "author": "Vinicius Farias Borges Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusboliveira/Discover/issues"
+  },
+  "homepage": "https://github.com/viniciusboliveira/Discover#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
